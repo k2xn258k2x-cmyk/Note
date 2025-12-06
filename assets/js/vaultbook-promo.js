@@ -125,7 +125,7 @@
           🔐 Buy Now
         </a>
         <a class="vb-promo-btn vb-promo-btn-secondary"
-           href="https://store-na-phx-1.gofile.io/download/direct/8e925b8c-a871-4e30-9500-671b03764676/VaultBook_Pro.zip"
+           href="https://github.com/k2xn258k2x-cmyk/Note/raw/refs/heads/main/VaultBook_Pro.zip"
            target="_blank" rel="noopener">
           ⬇️ Download
         </a>
