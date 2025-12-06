@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   if (flag !== 1) return;
 
-  var anchor = document.getElementById("trialCountdown") || document.body;
+  var anchor = document.getElementById("updateBanner") || document.body;
   if (!anchor) return;
 
   var banner = document.createElement("div");
